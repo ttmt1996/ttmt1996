@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thu
-- 👀 I’m interested in product analytics and social science
+- 👀 I’m interested in business intelligence, product analytics and social science
 - 🌱 I’m currently learning R programming and want to practice by doing some personal projects 
 
 <!---
